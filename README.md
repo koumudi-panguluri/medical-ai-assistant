@@ -85,3 +85,9 @@ src/
 
 This system is for **educational and simulation purposes only**. All clinical
 decisions must be made by a licensed healthcare provider.
+
+
+<img width="509" height="646" alt="Screenshot 2026-02-23 at 3 15 25 PM" src="https://github.com/user-attachments/assets/8429243f-4916-4357-97af-4ca65a07a2b4" />
+<img width="514" height="681" alt="Screenshot 2026-02-23 at 3 14 58 PM" src="https://github.com/user-attachments/assets/5b4be600-9564-4807-a110-668987497be8" />
+<img width="512" height="684" alt="Screenshot 2026-02-23 at 3 15 06 PM" src="https://github.com/user-attachments/assets/38ceae22-e069-410e-8b0b-49b73df7bb14" />
+<img width="510" height="681" alt="Screenshot 2026-02-23 at 3 15 14 PM" src="https://github.com/user-attachments/assets/8858b6a5-0ba0-4a77-aed5-7ab2ba2c64d9" />
